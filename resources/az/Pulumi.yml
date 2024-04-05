@@ -1,0 +1,7 @@
+name: forex-dash-infra
+runtime: python
+description: Forex dashboard infra pulumi configuration
+dependencies:
+  python:
+    - pulumi
+    - pulumi_azure
