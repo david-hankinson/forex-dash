@@ -1,0 +1,16 @@
+Arpeggio==2.0.2
+attrs==23.2.0
+dill==0.3.8
+grpcio==1.60.1
+parver==0.5
+protobuf==4.25.3
+pulumi==3.112.0
+pulumi_azure==5.70.0
+pulumi_azure_native==2.35.0
+PyYAML==6.0.1
+semver==2.13.0
+six==1.16.0
+dash
+requests
+plotly
+pandas
